@@ -32,7 +32,7 @@ Welcome to the **Fortune Teller App**, a fun and interactive project built with 
 - Beginner-friendly project to showcase JavaScript fundamentals.
 
 ## 📸 Preview
-![Fortune Teller](preview-image.png)
+![Fortune Teller](preview-image.jpg)
 
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, or create pull requests. Contributions are welcome!
